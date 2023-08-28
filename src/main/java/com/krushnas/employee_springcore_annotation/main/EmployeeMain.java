@@ -16,7 +16,6 @@ public class EmployeeMain {
 		System.out.println(employee1);
 
 		((AnnotationConfigApplicationContext) context).close();
-
 	}
 
 }
